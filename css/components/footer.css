@@ -1,0 +1,26 @@
+.footer{
+  background-color: #4c6935;
+  padding: 60px;
+}
+.links{
+  text-align: center;
+}
+.footer a {
+  font-size: 30px;
+  color: whitesmoke;
+}
+.footer p{
+  color: whitesmoke;
+}
+.footer p i{
+  color: red;
+}
+.footer a :hover{
+  font-size: 120%;
+  transition: 0.3s;
+
+}
+.footer p i:hover{
+  font-size: 120%;
+  transition: 0.3s;
+}

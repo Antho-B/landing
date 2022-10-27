@@ -1,0 +1,14 @@
+.btn-green{
+  border-radius: 25px;
+  background-color: green;
+  opacity: 0.9;
+  padding: 15px 20px;
+  color: whitesmoke;
+  transition: 0.3s;
+}
+
+.btn-green:hover{
+  border:solid;
+  border-color: green;
+  background-color: transparent;
+}
